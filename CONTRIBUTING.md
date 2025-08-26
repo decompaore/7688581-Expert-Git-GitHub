@@ -11,6 +11,7 @@ Open Transport recherche des contributeurs pour tous types de tâches : amélior
 ENFIN UNE CONTRIBUTION
 C'est quoi ça encore ?
 N'importe quoi
+Je dis ça et je dis plus rien.
 
 Pour commencer, nous recommendons de consulter la liste des [issues](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/issues)   
 
